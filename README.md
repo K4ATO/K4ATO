@@ -2,7 +2,7 @@
 <h2> A Back-End developer </h2>
 
 # 💫 About Me:
-💬 Ask me about  JavaScript, Node js, TypeScript<br>📫 How to reach me  osama.s.abdelmoniem@gmail.com <br>📝 I write articles on  https://osama-salah-abdelmoniem.github.io/
+💬 Ask me about  JavaScript, Node js, TypeScript<br>📫 How to reach me  osama.s.abdelmoniem@gmail.com <br>
 
 
 ## 🌐 Socials:
