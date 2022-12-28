@@ -1,5 +1,5 @@
 <h1> Hi, I am Osama Salah </h1>
-<h2> A Back-End developer </h2>
+<h2> A Full-Stack developer </h2>
 
 # 💫 About Me:
 💬 Ask me about  JavaScript, Node js, TypeScript<br>📫 How to reach me  osama.s.abdelmoniem@gmail.com <br>
