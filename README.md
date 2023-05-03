@@ -12,8 +12,6 @@
 
 - ⚡ fact **I love colors, photos and designs**
 
--  Games I'm playing **Teamfight Tactics**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_k4ato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_k4ato" height="30" width="40" /></a>
